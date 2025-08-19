@@ -1,3 +1,6 @@
 Abstract
+
 Predictive maintenance is essential for minimizing unplanned downtime and optimizing industrial processes. In the case of plastic injection molding machines, failures that lead to downtime, slowing production, or manufacturing defects can cause large financial losses or even endanger people and property. As industrialization advances, proactive equipment management enhances cost efficiency, reliability, and operational continuity. This study aims to detect machine anomalies as early as possible, using sensors, statistical analysis and classification models. A case study was carried out, including machine characterization and data collection. Clustering methods identified operational patterns and anomalies, classifying the machine’s behavior into distinct states, validated by company experts. Dimensionality reduction with PCA contributed to highlighting salient features and reducing noise. State classification was carried out using the resulting cluster data. Classification using XGBoost achieved the best performance among the machine learning models tested, reaching an accuracy of 83%. This approach can contribute to maximizing plastic injection machines’ availability and reducing losses due to malfunctions and downtime.
+
+
 Keywords: predictive maintenance; plastic injection machine; fault detection; DBSCAN; PCA; XGBoost
